@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Hi, This is my post title",
+    "content": "This is my post content",
+    "createdAt": "2025-02-23T08:26:05.206Z"
+  },
+  {
+    "id": 2,
+    "title": "Hi, This is my post title2",
+    "content": "This is my post content",
+    "createdAt": "2025-02-23T08:26:05.206Z"
+  },
+  {
+    "id": 3,
+    "title": "Hi, This is my post title3",
+    "content": "This is my post content",
+    "createdAt": "2025-02-23T08:26:05.206Z"
+  },
+  {
+    "id": 4,
+    "title": "Hello",
+    "content": "Hiii",
+    "createdAt": "2025-02-23T15:41:48.336Z"
+  }
+]
